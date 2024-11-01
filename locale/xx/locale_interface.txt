@@ -1,0 +1,1 @@
+SAVED_LOCATIONS_TITLE	Zapisane Lokalizacje (CTRL + X)
