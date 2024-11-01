@@ -1,0 +1,7 @@
+//find:
+POINT_MAX_NUM = 255,
+
+//add below:
+#ifdef ENABLE_SAVED_LOCATIONS
+	MAX_SAVED_LOCATION_NAME_LENGTH = 26,
+#endif
